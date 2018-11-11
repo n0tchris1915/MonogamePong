@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/paddle.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/ball.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/start.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/startHover.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/onePlayer.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/onePlayerHover.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/twoPlayer.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/twoPlayerHover.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/quit.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/quitHover.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/go.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/one.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/three.png</File>
+    <File>F:/dev/monogame/maybepong/maybepong/Content/two.png</File>
+  </SourceFiles>
+</SourceFileCollection>
